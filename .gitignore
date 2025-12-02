@@ -1,3 +1,6 @@
+# Node
+node_modules/
+
 # Logs
 logs
 *.log
@@ -7,15 +10,15 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-
-dist
-dist-ssr
+# Build
+dist/
+dist-ssr/
 *.local
 
 # Editor directories and files
 .vscode/*
-!.vscode/extensions.json
-.idea
+!.vscode/extensions.json   # keep recommended extensions
+.idea/
 .DS_Store
 *.suo
 *.ntvs*
@@ -23,7 +26,8 @@ dist-ssr
 *.sln
 *.sw?
 
+# Environment files
 .env
 
-# vscode
-.vscode
+# Optional: ignore entire .vscode (if you prefer)
+# .vscode/
