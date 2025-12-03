@@ -6,7 +6,6 @@ Throughout this build, I gained hands-on experience with advanced 3D libraries, 
 
 👉 Live Demo: https://portfolio-g895.onrender.com/
 
-If you need help or face bugs while exploring similar projects, feel free to join our thriving Discord community of 27k+ members where developers help each other grow.
 
 ⚙️ Tech Stack
 
