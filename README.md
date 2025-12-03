@@ -26,6 +26,7 @@ Vite
 Tailwind CSS
 
 🔋 Features
+
 👉 Customizable 3D Hero Section
 
 Built with a fully interactive 3D desktop model that can be easily modified to fit any personal branding or theme.
